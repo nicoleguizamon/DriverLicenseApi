@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.0.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DriverLicense.ErrorHandling\DriverLicense.ErrorHandling.csproj" />
+    <ProjectReference Include="..\DriverLicense.Interfaces\DriverLicense.Interfaces.csproj" />
+    <ProjectReference Include="..\DriverLicense.Models\DriverLicense.Models.csproj" />
+  </ItemGroup>
+
+</Project>
