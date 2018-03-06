@@ -48,7 +48,7 @@ namespace DriverLicense.WebAPI.Controllers
                         IsCorrect = q.IsCorrect,
                         QuestionId = q.QuestionId
                     }).ToList()
-                }).Take(3);//.OrderBy(q => Guid.NewGuid()).Take(numQuestionsToAsk);
+                }).OrderBy(q => Guid.NewGuid()).Take(numQuestionsToAsk);
 
 
             return _questionsMap.GetAll(list);
