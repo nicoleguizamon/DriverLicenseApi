@@ -92,3 +92,11 @@
 /DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.WebAPI.pdb
 /DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.WebAPI.runtimeconfig.dev.json
 /DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.WebAPI.runtimeconfig.json
+/DriverLicense.Model/bin/Debug/netcoreapp2.0
+/DriverLicense.Model/obj/Debug/netcoreapp2.0
+/DriverLicense.Model/obj
+/DriverLicense.WebAPI/Properties/PublishProfiles
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0
+/driverlicense.publishsettings
+/DriverLicense.WebAPI/appsettings.Staging.json
+/DriverLicense.WebAPI/appsettings.Production.json
