@@ -38,6 +38,9 @@ namespace DriverLicense.Models.Models
                 entity.Property(e => e.Name)
                     .IsRequired()
                     .HasMaxLength(50);
+                entity.Property(e => e.Province)
+                    .IsRequired()
+                    .HasMaxLength(100);
             });
 
             modelBuilder.Entity<Questions>(entity =>

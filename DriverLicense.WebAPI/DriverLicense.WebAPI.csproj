@@ -8,6 +8,10 @@
     <DocumentationFile>bin\Debug\netcoreapp2.0\DriverLicense.WebAPI.xml</DocumentationFile>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\netcoreapp2.0\DriverLicense.WebAPI.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <Folder Include="wwwroot\" />
   </ItemGroup>
@@ -31,5 +35,10 @@
     <ProjectReference Include="..\DriverLicense.Models\DriverLicense.Models.csproj" />
     <ProjectReference Include="..\DriverLicense.Services\DriverLicense.Services.csproj" />
   </ItemGroup>
-
+  <Target Name="PrepublishScript" BeforeTargets="PrepareForPublish">  
+    <ItemGroup>
+      <DocFile Include="bin\$(Configuration)\$(TargetFramework)\$(RuntimeIdentifier)\$(TargetName).xml" />
+    </ItemGroup>
+    <Copy SourceFiles="@(DocFile)" DestinationFolder="$(PublishDir)" SkipUnchangedFiles="false" />
+  </Target>
 </Project>

@@ -44,6 +44,10 @@ namespace DriverLicense.WebAPI
             var mapper = config.CreateMapper();
             services.AddSingleton(mapper);
 
+            services.Configure<IISOptions>(options =>
+            {
+            });
+
             services.AddCors(options =>
             {
                 options.AddPolicy("CorsPolicy",

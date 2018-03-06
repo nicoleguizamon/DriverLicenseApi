@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverLicense.WebAPI", "DriverLicense.WebAPI\DriverLicense.WebAPI.csproj", "{64BF2F80-6F5B-4EEE-8A97-97080823D6DA}"
 EndProject
@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverLicense.Maps", "Drive
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverLicense.ErrorHandling", "DriverLicense.ErrorHandling\DriverLicense.ErrorHandling.csproj", "{2C98B27C-74BD-48F5-BA2E-C4E4BF8B009A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverLicense.Models", "DriverLicense.Models\DriverLicense.Models.csproj", "{9296D701-8276-4BB6-8522-CAA770E59382}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriverLicense.Models", "DriverLicense.Models\DriverLicense.Models.csproj", "{9296D701-8276-4BB6-8522-CAA770E59382}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

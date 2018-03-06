@@ -5,6 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>DriverLicense.WebAPI</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>CustomProfile</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>AutoSim - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
