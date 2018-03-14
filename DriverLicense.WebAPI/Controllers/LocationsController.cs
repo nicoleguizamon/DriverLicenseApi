@@ -26,7 +26,7 @@ namespace DriverLicense.WebAPI.Controllers
         [HttpGet]
         public IEnumerable<LocationDTO> Get()
         {
-            return _locationsMap.GetAll(_locationsService.Fetch());
+            return _locationsMap.GetAll(_locationsService.Fetch(x=>x.Enabled));
         }
 
         // GET api/<controller>/5

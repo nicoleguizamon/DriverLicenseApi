@@ -103,3 +103,5 @@
 /DriverLicense.WebAPI/appsettings.Development.json
 /DriverLicense.WebAPI/appsettings.json
 /DriverLicense.WebAPI/DriverLicense.WebAPI.csproj.user
+/DriverLicense.DAL/bin/Release/netcoreapp2.0
+/DriverLicense.Models/bin/Release/netcoreapp2.0

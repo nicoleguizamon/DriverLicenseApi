@@ -10,7 +10,6 @@ namespace DriverLicense.Models.Models
         public virtual DbSet<Locations> Locations { get; set; }
         public virtual DbSet<Questions> Questions { get; set; }
 
-
         public DriverLicenseContext(DbContextOptions<DriverLicenseContext> options) : base(options)
         { }
 
@@ -38,9 +37,13 @@ namespace DriverLicense.Models.Models
                 entity.Property(e => e.Name)
                     .IsRequired()
                     .HasMaxLength(50);
+
                 entity.Property(e => e.Province)
                     .IsRequired()
-                    .HasMaxLength(100);
+                    .HasMaxLength(100)
+                    .HasDefaultValueSql("('')");
+
+                entity.Property(e => e.QuestionsForTest).HasDefaultValueSql("((20))");
             });
 
             modelBuilder.Entity<Questions>(entity =>
