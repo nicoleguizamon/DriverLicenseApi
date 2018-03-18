@@ -1,0 +1,107 @@
+/.vs/DriverLicense/v15
+/DriverLicense.DAL/bin/Debug/netcoreapp2.0
+/DriverLicense.DAL/obj/Debug/netcoreapp2.0
+/DriverLicense.DAL/obj
+/DriverLicense.ErrorHandling/bin/Debug/netcoreapp2.0
+/DriverLicense.ErrorHandling/obj/Debug/netcoreapp2.0
+/DriverLicense.ErrorHandling/obj
+/DriverLicense.Interfaces/bin/Debug/netcoreapp2.0
+/DriverLicense.Interfaces/obj/Debug/netcoreapp2.0
+/DriverLicense.Interfaces/obj
+/DriverLicense.Maps/bin/Debug/netcoreapp2.0
+/DriverLicense.Maps/obj/Debug/netcoreapp2.0
+/DriverLicense.Maps/obj
+/DriverLicense.Models/bin/Debug/netcoreapp2.0
+/DriverLicense.Models/obj/Debug/netcoreapp2.0
+/DriverLicense.Models/obj
+/DriverLicense.Services/bin/Debug/netcoreapp2.0
+/DriverLicense.Services/obj/Debug/netcoreapp2.0
+/DriverLicense.Services/obj
+/DriverLicense.WebAPI/bin/Debug/netcoreapp2.0
+/DriverLicense.WebAPI/obj/Debug/netcoreapp2.0
+/DriverLicense.WebAPI/obj
+/DriverLicense.DAL/bin/Release/netcoreapp2.0/DriverLicense.DAL.deps.json
+/DriverLicense.DAL/bin/Release/netcoreapp2.0/DriverLicense.DAL.dll
+/DriverLicense.DAL/bin/Release/netcoreapp2.0/DriverLicense.DAL.pdb
+/DriverLicense.DAL/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.dll
+/DriverLicense.DAL/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.pdb
+/DriverLicense.DAL/bin/Release/netcoreapp2.0/DriverLicense.Models.dll
+/DriverLicense.DAL/bin/Release/netcoreapp2.0/DriverLicense.Models.pdb
+/DriverLicense.ErrorHandling/bin/Release/netcoreapp2.0/DriverLicense.ErrorHandling.deps.json
+/DriverLicense.ErrorHandling/bin/Release/netcoreapp2.0/DriverLicense.ErrorHandling.dll
+/DriverLicense.ErrorHandling/bin/Release/netcoreapp2.0/DriverLicense.ErrorHandling.pdb
+/DriverLicense.Interfaces/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.deps.json
+/DriverLicense.Interfaces/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.dll
+/DriverLicense.Interfaces/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.pdb
+/DriverLicense.Interfaces/bin/Release/netcoreapp2.0/DriverLicense.Models.dll
+/DriverLicense.Interfaces/bin/Release/netcoreapp2.0/DriverLicense.Models.pdb
+/DriverLicense.Maps/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.dll
+/DriverLicense.Maps/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.pdb
+/DriverLicense.Maps/bin/Release/netcoreapp2.0/DriverLicense.Maps.deps.json
+/DriverLicense.Maps/bin/Release/netcoreapp2.0/DriverLicense.Maps.dll
+/DriverLicense.Maps/bin/Release/netcoreapp2.0/DriverLicense.Maps.pdb
+/DriverLicense.Maps/bin/Release/netcoreapp2.0/DriverLicense.Models.dll
+/DriverLicense.Maps/bin/Release/netcoreapp2.0/DriverLicense.Models.pdb
+/DriverLicense.Models/bin/Release/netcoreapp2.0/DriverLicense.Models.deps.json
+/DriverLicense.Models/bin/Release/netcoreapp2.0/DriverLicense.Models.dll
+/DriverLicense.Models/bin/Release/netcoreapp2.0/DriverLicense.Models.pdb
+/DriverLicense.Services/bin/Release/netcoreapp2.0/DriverLicense.ErrorHandling.dll
+/DriverLicense.Services/bin/Release/netcoreapp2.0/DriverLicense.ErrorHandling.pdb
+/DriverLicense.Services/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.dll
+/DriverLicense.Services/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.pdb
+/DriverLicense.Services/bin/Release/netcoreapp2.0/DriverLicense.Models.dll
+/DriverLicense.Services/bin/Release/netcoreapp2.0/DriverLicense.Models.pdb
+/DriverLicense.Services/bin/Release/netcoreapp2.0/DriverLicense.Services.deps.json
+/DriverLicense.Services/bin/Release/netcoreapp2.0/DriverLicense.Services.dll
+/DriverLicense.Services/bin/Release/netcoreapp2.0/DriverLicense.Services.pdb
+/DriverLicense.WebAPI/Properties/PublishProfiles/driverlicense - FTP.pubxml
+/DriverLicense.WebAPI/Properties/PublishProfiles/driverlicense - FTP.pubxml.user
+/DriverLicense.WebAPI/Properties/PublishProfiles/driverlicense - Web Deploy.pubxml
+/DriverLicense.WebAPI/Properties/PublishProfiles/driverlicense - Web Deploy.pubxml.user
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.DAL.dll
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.DAL.pdb
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.ErrorHandling.dll
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.ErrorHandling.pdb
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.Interfaces.dll
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.Interfaces.pdb
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.Maps.dll
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.Maps.pdb
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.Models.dll
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.Models.pdb
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.Services.dll
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.Services.pdb
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.WebAPI.deps.json
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.WebAPI.dll
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.WebAPI.pdb
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.WebAPI.runtimeconfig.dev.json
+/DriverLicense.WebAPI/bin/Any CPU/Release/netcoreapp2.0/DriverLicense.WebAPI.runtimeconfig.json
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.DAL.dll
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.DAL.pdb
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.ErrorHandling.dll
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.ErrorHandling.pdb
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.dll
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.Interfaces.pdb
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.Maps.dll
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.Maps.pdb
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.Models.dll
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.Models.pdb
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.Services.dll
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.Services.pdb
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.WebAPI.deps.json
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.WebAPI.dll
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.WebAPI.pdb
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.WebAPI.runtimeconfig.dev.json
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0/DriverLicense.WebAPI.runtimeconfig.json
+/DriverLicense.Model/bin/Debug/netcoreapp2.0
+/DriverLicense.Model/obj/Debug/netcoreapp2.0
+/DriverLicense.Model/obj
+/DriverLicense.WebAPI/Properties/PublishProfiles
+/DriverLicense.WebAPI/bin/Release/netcoreapp2.0
+/driverlicense.publishsettings
+/DriverLicense.WebAPI/appsettings.Staging.json
+/DriverLicense.WebAPI/appsettings.Production.json
+/DriverLicense.WebAPI/appsettings.Development.json
+/DriverLicense.WebAPI/appsettings.json
+/DriverLicense.WebAPI/DriverLicense.WebAPI.csproj.user
+/DriverLicense.DAL/bin/Release/netcoreapp2.0
+/DriverLicense.Models/bin/Release/netcoreapp2.0
